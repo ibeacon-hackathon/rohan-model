@@ -1,0 +1,7 @@
+argparse==1.2.1
+firebase-token-generator==2.0.0
+#-e git://github.com/assisantunes/python-firebase.git#egg=python_firebase-master
+-e git://github.com/advance512/python-firebase.git#egg=python_firebase-master
+requests==1.2.3
+wsgiref==0.1.2
+python-gcm==0.1.5
